@@ -81,7 +81,7 @@ Use the slider to see global representation for a specific year
 
 Explore data with interactive charts
 
---
+---
 
 ## Data Source
 
