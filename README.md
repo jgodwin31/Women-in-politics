@@ -41,12 +41,50 @@ This project demonstrates skills in **data extraction, transformation, loading (
 python -m pip install -r requirements.txt
 ```
 
-If requirements.txt is not provided, manually install:
-```powershell
-python -m pip install streamlit pandas sqlalchemy plotly
-```
 ---
 
 ## Step 1 — Set up PostgreSQL
 
 Open PostgreSQL and create a new database:
+```powershell
+CREATE DATABASE women_politics;
+```
+Update your password in etl/load_data.py:
+```powershell
+engine = create_engine("postgresql://postgres:<your_password>@localhost:5432/women_politics")
+```
+## Step 2 — Run the ETL pipeline
+
+From the main folder, run:
+```powershell
+python run_pipeline.py
+```
+This will:
+
+Extract data from the World Bank API
+
+Transform it to a clean format
+
+Load it into your PostgreSQL database
+
+## Step 3 — Run the Streamlit dashboard
+```powershell
+python -m streamlit run dashboard.py
+```
+A browser window will open at http://localhost:8501.
+
+You can interactively:
+
+Select a country to see trends over time
+
+Use the slider to see global representation for a specific year
+
+Explore data with interactive charts
+
+--
+
+## Data Source
+
+Data comes from the World Bank’s Women in Parliament dataset:
+
+World Bank API
