@@ -39,6 +39,14 @@ This project demonstrates skills in **data extraction, transformation, loading (
 
 ```powershell
 python -m pip install -r requirements.txt
+```
 
 If requirements.txt is not provided, manually install:
+```powershell
 python -m pip install streamlit pandas sqlalchemy plotly
+```
+---
+
+## Step 1 — Set up PostgreSQL
+
+Open PostgreSQL and create a new database:
