@@ -87,4 +87,4 @@ Explore data with interactive charts
 
 Data comes from the World Bank’s Women in Parliament dataset:
 
-World Bank API
+World Bank API: https://data.worldbank.org/indicator/SG.GEN.PARL.ZS
