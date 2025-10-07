@@ -61,11 +61,11 @@ python run_pipeline.py
 ```
 This will:
 
-Extract data from the World Bank API
+- Extract data from the World Bank API
 
-Transform it to a clean format
+- Transform it to a clean format
 
-Load it into your PostgreSQL database
+- Load it into your PostgreSQL database
 
 ## Step 3 — Run the Streamlit dashboard
 ```powershell
@@ -75,11 +75,11 @@ A browser window will open at http://localhost:8501.
 
 You can interactively:
 
-Select a country to see trends over time
+- Select a country to see trends over time
 
-Use the slider to see global representation for a specific year
+- Use the slider to see global representation for a specific year
 
-Explore data with interactive charts
+- Explore data with interactive charts
 
 ---
 
