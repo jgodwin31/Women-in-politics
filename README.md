@@ -68,8 +68,10 @@ This will:
 - Load it into your PostgreSQL database
 
 ## Step 3 — Run the Streamlit dashboard
+
+From the dashboard folder, run:
 ```powershell
-python -m streamlit run dashboard.py
+python -m streamlit run app.py
 ```
 A browser window will open at http://localhost:8501.
 
