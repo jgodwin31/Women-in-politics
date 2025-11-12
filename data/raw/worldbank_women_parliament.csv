@@ -85,7 +85,7 @@ Africa Western and Central,ZI,2007,12.3098201936376
 Africa Western and Central,ZI,2006,11.1844390413338
 Africa Western and Central,ZI,2005,10.7078692058929
 Africa Western and Central,ZI,2004,10.0685673042223
-Africa Western and Central,ZI,2003,8.95696006203956
+Africa Western and Central,ZI,2003,8.95696006203955
 Africa Western and Central,ZI,2002,7.94306703397613
 Africa Western and Central,ZI,2001,7.39587388088751
 Africa Western and Central,ZI,2000,6.81514476614699
@@ -132,7 +132,7 @@ Africa Western and Central,ZI,1960,
 Arab World,1A,2024,18.1524373821707
 Arab World,1A,2023,17.7282377919321
 Arab World,1A,2022,18.2462588605933
-Arab World,1A,2021,18.2245430809399
+Arab World,1A,2021,18.22454308094
 Arab World,1A,2020,19.5469585136167
 Arab World,1A,2019,17.5665399239544
 Arab World,1A,2018,19.060773480663
@@ -144,7 +144,7 @@ Arab World,1A,2013,17.3693086003373
 Arab World,1A,2012,14.87204249155
 Arab World,1A,2011,11.3285024154589
 Arab World,1A,2010,11.919671777154
-Arab World,1A,2009,9.90230905861456
+Arab World,1A,2009,9.90230905861457
 Arab World,1A,2008,9.80157781496534
 Arab World,1A,2007,9.7537652402582
 Arab World,1A,2006,9.34959349593497
@@ -460,7 +460,7 @@ East Asia & Pacific (excluding high income),4E,2022,22.049969897652
 East Asia & Pacific (excluding high income),4E,2021,21.5733522324592
 East Asia & Pacific (excluding high income),4E,2020,21.5431296055483
 East Asia & Pacific (excluding high income),4E,2019,20.8563731745357
-East Asia & Pacific (excluding high income),4E,2018,20.6260150597963
+East Asia & Pacific (excluding high income),4E,2018,20.6260150597962
 East Asia & Pacific (excluding high income),4E,2017,20.1280333482209
 East Asia & Pacific (excluding high income),4E,2016,19.8686371100164
 East Asia & Pacific (excluding high income),4E,2015,19.7626654495664
@@ -650,7 +650,7 @@ Euro area,XC,1962,
 Euro area,XC,1961,
 Euro area,XC,1960,
 Europe & Central Asia,Z7,2024,31.4502529510961
-Europe & Central Asia,Z7,2023,31.1179949310054
+Europe & Central Asia,Z7,2023,31.1179949310053
 Europe & Central Asia,Z7,2022,30.9232794283565
 Europe & Central Asia,Z7,2021,31.1337182659701
 Europe & Central Asia,Z7,2020,30.2941445981856
@@ -658,7 +658,7 @@ Europe & Central Asia,Z7,2019,29.4559443121451
 Europe & Central Asia,Z7,2018,27.9538376992123
 Europe & Central Asia,Z7,2017,27.3847852083525
 Europe & Central Asia,Z7,2016,26.0058791107845
-Europe & Central Asia,Z7,2015,25.743119266055
+Europe & Central Asia,Z7,2015,25.7431192660551
 Europe & Central Asia,Z7,2014,25.3484959647836
 Europe & Central Asia,Z7,2013,24.7976254722072
 Europe & Central Asia,Z7,2012,23.7507877914828
@@ -731,7 +731,7 @@ Europe & Central Asia (excluding high income),7E,2011,16.2566844919786
 Europe & Central Asia (excluding high income),7E,2010,15.203426124197
 Europe & Central Asia (excluding high income),7E,2009,15.0957024196461
 Europe & Central Asia (excluding high income),7E,2008,13.9322421012562
-Europe & Central Asia (excluding high income),7E,2007,13.7219406227372
+Europe & Central Asia (excluding high income),7E,2007,13.7219406227371
 Europe & Central Asia (excluding high income),7E,2006,10.8615611192931
 Europe & Central Asia (excluding high income),7E,2005,9.8360655737705
 Europe & Central Asia (excluding high income),7E,2004,9.4745908699397
@@ -739,7 +739,7 @@ Europe & Central Asia (excluding high income),7E,2003,7.91164658634538
 Europe & Central Asia (excluding high income),7E,2002,
 Europe & Central Asia (excluding high income),7E,2001,7.51004016064257
 Europe & Central Asia (excluding high income),7E,2000,6.84068406840684
-Europe & Central Asia (excluding high income),7E,1999,5.97853857945835
+Europe & Central Asia (excluding high income),7E,1999,5.97853857945836
 Europe & Central Asia (excluding high income),7E,1998,
 Europe & Central Asia (excluding high income),7E,1997,5.06700167504188
 Europe & Central Asia (excluding high income),7E,1996,
@@ -1048,7 +1048,7 @@ High income,XD,2019,28.5373608903021
 High income,XD,2018,27.443011132709
 High income,XD,2017,26.7801164352888
 High income,XD,2016,25.3593611357587
-High income,XD,2015,25.3509863159765
+High income,XD,2015,25.3509863159766
 High income,XD,2014,24.7572383073497
 High income,XD,2013,24.3898171638527
 High income,XD,2012,23.0331172244612
@@ -1121,7 +1121,7 @@ IBRD only,XF,2011,18.1857318573186
 IBRD only,XF,2010,17.870036101083
 IBRD only,XF,2009,17.4675403470453
 IBRD only,XF,2008,16.5028262472352
-IBRD only,XF,2007,16.0695758315533
+IBRD only,XF,2007,16.0695758315532
 IBRD only,XF,2006,15.2983456224054
 IBRD only,XF,2005,14.595402728462
 IBRD only,XF,2004,15.0360319418295
@@ -1312,7 +1312,7 @@ IDA only,XI,2015,21.3653603034134
 IDA only,XI,2014,19.6759005803132
 IDA only,XI,2013,19.3871606664336
 IDA only,XI,2012,20.2325085324232
-IDA only,XI,2011,19.3366572729243
+IDA only,XI,2011,19.3366572729244
 IDA only,XI,2010,17.6665523940121
 IDA only,XI,2009,17.7811198519204
 IDA only,XI,2008,17.3422084868656
@@ -1323,7 +1323,7 @@ IDA only,XI,2004,12.1264444149289
 IDA only,XI,2003,11.5503761616758
 IDA only,XI,2002,11.1093038386467
 IDA only,XI,2001,
-IDA only,XI,2000,9.63237893248498
+IDA only,XI,2000,9.63237893248497
 IDA only,XI,1999,7.84380305602717
 IDA only,XI,1998,7.99072642967543
 IDA only,XI,1997,8.00687285223368
@@ -1439,7 +1439,7 @@ Late-demographic dividend,V3,2018,21.4700561744264
 Late-demographic dividend,V3,2017,20.7017202837982
 Late-demographic dividend,V3,2016,19.8891860909438
 Late-demographic dividend,V3,2015,19.3653221181419
-Late-demographic dividend,V3,2014,19.1025152439025
+Late-demographic dividend,V3,2014,19.1025152439024
 Late-demographic dividend,V3,2013,18.9151470040938
 Late-demographic dividend,V3,2012,18.2850758774788
 Late-demographic dividend,V3,2011,17.6603135855788
@@ -1565,13 +1565,13 @@ Latin America & Caribbean (excluding high income),XJ,2022,36.6891693572057
 Latin America & Caribbean (excluding high income),XJ,2021,35.8807907937445
 Latin America & Caribbean (excluding high income),XJ,2020,34.5860246623606
 Latin America & Caribbean (excluding high income),XJ,2019,33.3522404991492
-Latin America & Caribbean (excluding high income),XJ,2018,32.8040827899064
+Latin America & Caribbean (excluding high income),XJ,2018,32.8040827899065
 Latin America & Caribbean (excluding high income),XJ,2017,30.9614819170832
 Latin America & Caribbean (excluding high income),XJ,2016,30.8021695689409
 Latin America & Caribbean (excluding high income),XJ,2015,29.7222222222222
 Latin America & Caribbean (excluding high income),XJ,2014,29.1309319611206
 Latin America & Caribbean (excluding high income),XJ,2013,27.3293768545994
-Latin America & Caribbean (excluding high income),XJ,2012,25.8745302110436
+Latin America & Caribbean (excluding high income),XJ,2012,25.8745302110437
 Latin America & Caribbean (excluding high income),XJ,2011,24.139924833767
 Latin America & Caribbean (excluding high income),XJ,2010,24.057714958775
 Latin America & Caribbean (excluding high income),XJ,2009,23.7244162582877
@@ -1698,7 +1698,7 @@ Least developed countries: UN classification,XL,2019,23.134514599451
 Least developed countries: UN classification,XL,2018,23.0392156862745
 Least developed countries: UN classification,XL,2017,23.2253618194349
 Least developed countries: UN classification,XL,2016,23.3381329493641
-Least developed countries: UN classification,XL,2015,23.3097388332927
+Least developed countries: UN classification,XL,2015,23.3097388332926
 Least developed countries: UN classification,XL,2014,21.3748246397143
 Least developed countries: UN classification,XL,2013,21.1696536854871
 Least developed countries: UN classification,XL,2012,21.6242076306662
@@ -2040,7 +2040,7 @@ Lower middle income,XN,1960,
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",XQ,2001,
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",XQ,2000,
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",XQ,1999,
-"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",XQ,1998,3.40395970823203
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",XQ,1998,3.40395970823202
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",XQ,1997,3.78034222045364
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",XQ,1996,
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",XQ,1995,
@@ -2348,7 +2348,7 @@ OECD members,OE,2019,30.8018124507486
 OECD members,OE,2018,29.8748645186718
 OECD members,OE,2017,28.8716814159292
 OECD members,OE,2016,27.9655931186237
-OECD members,OE,2015,27.8432940235858
+OECD members,OE,2015,27.8432940235859
 OECD members,OE,2014,26.7909027151588
 OECD members,OE,2013,26.1656502065709
 OECD members,OE,2012,25.0270749236979
@@ -2747,7 +2747,7 @@ South Asia,8S,2010,18.6033824331697
 South Asia,8S,2009,18.657937806874
 South Asia,8S,2008,16.3915765509391
 South Asia,8S,2007,9.96138996138995
-South Asia,8S,2006,8.55826201448321
+South Asia,8S,2006,8.5582620144832
 South Asia,8S,2005,9.15678524374177
 South Asia,8S,2004,6.1611374407583
 South Asia,8S,2003,6.31364562118126
@@ -14624,71 +14624,71 @@ Solomon Islands,SB,1963,
 Solomon Islands,SB,1962,
 Solomon Islands,SB,1961,
 Solomon Islands,SB,1960,
-Somalia,SO,2024,19.6363636363636
-Somalia,SO,2023,19.7080291970803
-Somalia,SO,2022,19.7080291970803
-Somalia,SO,2021,24.3636363636364
-Somalia,SO,2020,24.3636363636364
-Somalia,SO,2019,24.3636363636364
-Somalia,SO,2018,24.3636363636364
-Somalia,SO,2017,24.3636363636364
-Somalia,SO,2016,
-Somalia,SO,2015,13.8181818181818
-Somalia,SO,2014,13.8181818181818
-Somalia,SO,2013,13.8181818181818
-Somalia,SO,2012,13.8181818181818
-Somalia,SO,2011,6.77655677655678
-Somalia,SO,2010,6.77655677655678
-Somalia,SO,2009,6.86456400742115
-Somalia,SO,2008,8.203125
-Somalia,SO,2007,8.203125
-Somalia,SO,2006,7.80669144981413
-Somalia,SO,2005,8.0
-Somalia,SO,2004,
-Somalia,SO,2003,
-Somalia,SO,2002,
-Somalia,SO,2001,
-Somalia,SO,2000,
-Somalia,SO,1999,
-Somalia,SO,1998,
-Somalia,SO,1997,
-Somalia,SO,1996,
-Somalia,SO,1995,
-Somalia,SO,1994,
-Somalia,SO,1993,
-Somalia,SO,1992,
-Somalia,SO,1991,
-Somalia,SO,1990,
-Somalia,SO,1989,
-Somalia,SO,1988,
-Somalia,SO,1987,
-Somalia,SO,1986,
-Somalia,SO,1985,
-Somalia,SO,1984,
-Somalia,SO,1983,
-Somalia,SO,1982,
-Somalia,SO,1981,
-Somalia,SO,1980,
-Somalia,SO,1979,
-Somalia,SO,1978,
-Somalia,SO,1977,
-Somalia,SO,1976,
-Somalia,SO,1975,
-Somalia,SO,1974,
-Somalia,SO,1973,
-Somalia,SO,1972,
-Somalia,SO,1971,
-Somalia,SO,1970,
-Somalia,SO,1969,
-Somalia,SO,1968,
-Somalia,SO,1967,
-Somalia,SO,1966,
-Somalia,SO,1965,
-Somalia,SO,1964,
-Somalia,SO,1963,
-Somalia,SO,1962,
-Somalia,SO,1961,
-Somalia,SO,1960,
+"Somalia, Fed. Rep.",SO,2024,19.6363636363636
+"Somalia, Fed. Rep.",SO,2023,19.7080291970803
+"Somalia, Fed. Rep.",SO,2022,19.7080291970803
+"Somalia, Fed. Rep.",SO,2021,24.3636363636364
+"Somalia, Fed. Rep.",SO,2020,24.3636363636364
+"Somalia, Fed. Rep.",SO,2019,24.3636363636364
+"Somalia, Fed. Rep.",SO,2018,24.3636363636364
+"Somalia, Fed. Rep.",SO,2017,24.3636363636364
+"Somalia, Fed. Rep.",SO,2016,
+"Somalia, Fed. Rep.",SO,2015,13.8181818181818
+"Somalia, Fed. Rep.",SO,2014,13.8181818181818
+"Somalia, Fed. Rep.",SO,2013,13.8181818181818
+"Somalia, Fed. Rep.",SO,2012,13.8181818181818
+"Somalia, Fed. Rep.",SO,2011,6.77655677655678
+"Somalia, Fed. Rep.",SO,2010,6.77655677655678
+"Somalia, Fed. Rep.",SO,2009,6.86456400742115
+"Somalia, Fed. Rep.",SO,2008,8.203125
+"Somalia, Fed. Rep.",SO,2007,8.203125
+"Somalia, Fed. Rep.",SO,2006,7.80669144981413
+"Somalia, Fed. Rep.",SO,2005,8.0
+"Somalia, Fed. Rep.",SO,2004,
+"Somalia, Fed. Rep.",SO,2003,
+"Somalia, Fed. Rep.",SO,2002,
+"Somalia, Fed. Rep.",SO,2001,
+"Somalia, Fed. Rep.",SO,2000,
+"Somalia, Fed. Rep.",SO,1999,
+"Somalia, Fed. Rep.",SO,1998,
+"Somalia, Fed. Rep.",SO,1997,
+"Somalia, Fed. Rep.",SO,1996,
+"Somalia, Fed. Rep.",SO,1995,
+"Somalia, Fed. Rep.",SO,1994,
+"Somalia, Fed. Rep.",SO,1993,
+"Somalia, Fed. Rep.",SO,1992,
+"Somalia, Fed. Rep.",SO,1991,
+"Somalia, Fed. Rep.",SO,1990,
+"Somalia, Fed. Rep.",SO,1989,
+"Somalia, Fed. Rep.",SO,1988,
+"Somalia, Fed. Rep.",SO,1987,
+"Somalia, Fed. Rep.",SO,1986,
+"Somalia, Fed. Rep.",SO,1985,
+"Somalia, Fed. Rep.",SO,1984,
+"Somalia, Fed. Rep.",SO,1983,
+"Somalia, Fed. Rep.",SO,1982,
+"Somalia, Fed. Rep.",SO,1981,
+"Somalia, Fed. Rep.",SO,1980,
+"Somalia, Fed. Rep.",SO,1979,
+"Somalia, Fed. Rep.",SO,1978,
+"Somalia, Fed. Rep.",SO,1977,
+"Somalia, Fed. Rep.",SO,1976,
+"Somalia, Fed. Rep.",SO,1975,
+"Somalia, Fed. Rep.",SO,1974,
+"Somalia, Fed. Rep.",SO,1973,
+"Somalia, Fed. Rep.",SO,1972,
+"Somalia, Fed. Rep.",SO,1971,
+"Somalia, Fed. Rep.",SO,1970,
+"Somalia, Fed. Rep.",SO,1969,
+"Somalia, Fed. Rep.",SO,1968,
+"Somalia, Fed. Rep.",SO,1967,
+"Somalia, Fed. Rep.",SO,1966,
+"Somalia, Fed. Rep.",SO,1965,
+"Somalia, Fed. Rep.",SO,1964,
+"Somalia, Fed. Rep.",SO,1963,
+"Somalia, Fed. Rep.",SO,1962,
+"Somalia, Fed. Rep.",SO,1961,
+"Somalia, Fed. Rep.",SO,1960,
 South Africa,ZA,2024,44.702842377261
 South Africa,ZA,2023,45.8646616541353
 South Africa,ZA,2022,46.5
